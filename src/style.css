@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Noto Sans TC', sans-serif;
+  --font-pinyin: 'Noto Sans', sans-serif;
+  --color-brand: #315c49;
+  --color-sand: #b6a27a;
+  --color-ink: #253d35;
+  --color-page: #f7f8f4;
+  --color-line: #dbe2d8;
+  --color-leaf: #567b5b;
+  --color-muted: #8a9387;
+  --color-sound: #6c7665;
+}
