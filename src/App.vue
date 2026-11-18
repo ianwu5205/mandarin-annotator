@@ -137,6 +137,6 @@ async function downloadCharacter(event, char) {
     </div>
   </form>
 </dialog>
-</main><footer class="max-w-[1060px] mx-auto border-t border-line py-6 text-center text-muted text-[10px] max-[650px]:mx-[18px] print:hidden"><a class="hover:underline" href="https://github.com/ianwu5205/mandarin-annotator">字字有聲</a> <a class="hover:underline" href="./changes.html">v0.0.2</a></footer>
+</main><footer class="max-w-[1060px] mx-auto border-t border-line py-6 text-center text-muted text-[10px] max-[650px]:mx-[18px] print:hidden"><a class="hover:underline" href="https://github.com/ianwu5205/mandarin-annotator" target="_blank" rel="noopener noreferrer">字字有聲</a> <a class="hover:underline" href="./changes.html">v0.0.2</a></footer>
 </div>
 </template>

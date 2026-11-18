@@ -28,5 +28,3 @@ npm run preview
 - pinyin-pro 透過 npm 安裝並由 Vite 一起打包，執行時不從 CDN 載入字庫；Google Noto 字型仍需網路，無網路時使用系統字型。
 - 多音字依上下文判讀，特殊人名、地名與臺灣慣用讀音請人工確認。
 - src/App.vue 為互動畫面，src/phonetics.js 為拼音與注音轉換，src/style.css 為 Tailwind 入口及主題。
-
-舊版獨立 HTML 與原生 DOM 程式已移除；根目錄 index.html 是 Vite 必要的應用入口。
