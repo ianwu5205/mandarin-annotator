@@ -1,6 +1,8 @@
-# 字有聲
+# 字字有聲
 
 Vue 3 + Vite + Tailwind CSS 4 中文拼音／注音工具。
+
+[開啟華語雙拼編輯器](https://ianwu5205.github.io/mandarin-annotator/)
 
 ## 開發
 

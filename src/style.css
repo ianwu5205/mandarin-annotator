@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@source inline("text-[{64..180}px]");
 
 @theme {
   --font-sans: 'Noto Sans TC', sans-serif;
